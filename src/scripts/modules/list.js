@@ -3,4 +3,4 @@ module.exports = [
   'World 1',
   'World 2',
   'World 3'
-]
+];
